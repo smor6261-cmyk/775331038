@@ -1,0 +1,5 @@
+{
+  "name": "Quranic Course Student Tracker",
+  "description": "An electronic system to track the progress of female students in the Shatibiyyah and Durra Quranic readings course. It manages student information, attendance, recitation, homework, and provides AI-powered data analysis to offer insights and recommendations.",
+  "requestFramePermissions": []
+}
